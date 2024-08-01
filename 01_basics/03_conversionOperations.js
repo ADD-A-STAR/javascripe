@@ -3,7 +3,7 @@ let score = "33abc"
 //console.log(typeof score);
 //console.log(typeof(score));
 
-let valueInNumber = Number(score)
+let valueInNumber = Number(score) // Guarantee hae ki jo score  hae woh number he milega  
 //console.log(typeof valueInNumber);
 //console.log(valueInNumber);
 
